@@ -1,0 +1,16 @@
+E:\GitHub\cs_1.18_AreaPerimRetang\bin\Debug\net5.0\cs_1.18_AreaPerimRetang.exe
+E:\GitHub\cs_1.18_AreaPerimRetang\bin\Debug\net5.0\cs_1.18_AreaPerimRetang.deps.json
+E:\GitHub\cs_1.18_AreaPerimRetang\bin\Debug\net5.0\cs_1.18_AreaPerimRetang.runtimeconfig.json
+E:\GitHub\cs_1.18_AreaPerimRetang\bin\Debug\net5.0\cs_1.18_AreaPerimRetang.runtimeconfig.dev.json
+E:\GitHub\cs_1.18_AreaPerimRetang\bin\Debug\net5.0\cs_1.18_AreaPerimRetang.dll
+E:\GitHub\cs_1.18_AreaPerimRetang\bin\Debug\net5.0\ref\cs_1.18_AreaPerimRetang.dll
+E:\GitHub\cs_1.18_AreaPerimRetang\bin\Debug\net5.0\cs_1.18_AreaPerimRetang.pdb
+E:\GitHub\cs_1.18_AreaPerimRetang\obj\Debug\net5.0\cs_1.18_AreaPerimRetang.csprojAssemblyReference.cache
+E:\GitHub\cs_1.18_AreaPerimRetang\obj\Debug\net5.0\cs_1.18_AreaPerimRetang.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\cs_1.18_AreaPerimRetang\obj\Debug\net5.0\cs_1.18_AreaPerimRetang.AssemblyInfoInputs.cache
+E:\GitHub\cs_1.18_AreaPerimRetang\obj\Debug\net5.0\cs_1.18_AreaPerimRetang.AssemblyInfo.cs
+E:\GitHub\cs_1.18_AreaPerimRetang\obj\Debug\net5.0\cs_1.18_AreaPerimRetang.csproj.CoreCompileInputs.cache
+E:\GitHub\cs_1.18_AreaPerimRetang\obj\Debug\net5.0\cs_1.18_AreaPerimRetang.dll
+E:\GitHub\cs_1.18_AreaPerimRetang\obj\Debug\net5.0\ref\cs_1.18_AreaPerimRetang.dll
+E:\GitHub\cs_1.18_AreaPerimRetang\obj\Debug\net5.0\cs_1.18_AreaPerimRetang.pdb
+E:\GitHub\cs_1.18_AreaPerimRetang\obj\Debug\net5.0\cs_1.18_AreaPerimRetang.genruntimeconfig.cache
